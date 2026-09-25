@@ -1,0 +1,5 @@
+<configuration>
+	<video_source>test_video.mp4</video_source>
+	<gray_threshold>25</gray_threshold>
+	<min_area>10000</min_area>
+</configuration>
