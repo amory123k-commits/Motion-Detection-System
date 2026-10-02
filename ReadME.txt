@@ -42,5 +42,6 @@ PostgreSQL: only frames with Status = ALERT
 MongoDB: all frames
 
 HDF5: full archive for analysis
-
-Each record has: Frame_id, Motion_Score, Avg_Score, Status
+ 
+Each record has: Frame_id, Motion_Score, Avg_Score, Status                                                                                                                                                                                                                    note: iam used PostgreSQL and MongoDB because for learning purposes
+       , and this project is Designated for an empty factory at night.
